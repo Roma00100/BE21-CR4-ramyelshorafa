@@ -1,0 +1,13 @@
+.image-height {
+    height: 300px; /* Set the desired height for all card images */
+    object-fit: cover; /* Maintain aspect ratio while filling the container */
+}
+
+
+.heroSection {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70vh; /* You can adjust the height as needed */
+    color: white; /* Text color on top of the background image */
+}
